@@ -2,7 +2,11 @@
 thaifood: panang-curry
 ---
 
-# ![fire](/images/fire.png) [High Temperature Electronics](https://bob-mayo.gitbook.io/high-temperature-electronics/) 
+# Links
+## ![fire](/images/fire.png) [High Temperature Electronics](https://bob-mayo.gitbook.io/high-temperature-electronics/) 
+
+# Links 2
+## <img src="/images/fire.png"> [High Temperature Electronics](https://bob-mayo.gitbook.io/high-temperature-electronics/) 
 
 # Test Area
 
@@ -10,6 +14,10 @@ Updated 17:04
 
 ## Image
 ![fire](/images/fire.png)
+
+## Second Image
+<img src="/images/fire.png">
+
 ## Link
 [High Temperature Electronics](https://bob-mayo.gitbook.io/high-temperature-electronics/) 
 
